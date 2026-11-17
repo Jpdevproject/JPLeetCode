@@ -1,4 +1,4 @@
-package threesum;
+package day1.threesum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package closestsum;
+package day1.closestsum;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package lcp;
+package day1.lcp;
 /*
 Write a function to find the longest common prefix string amongst an array of strings.
 
